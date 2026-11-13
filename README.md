@@ -1,17 +1,14 @@
-# Study_Java_Basic
-if you are not able to read Korean, [click](EN_DESC.md) here
+# Java 알고리즘 연습
 
-# 공부목표
-* [programmers 코딩 기초 트레이닝](https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc&page=5)문제를 풀면서 자바에 대한 이해도 높이기
-* 최대한 자바의 여러가지 메소드와 다양한 기능들을 활용해서 풀어보기
-	* ex. char[] 대신 string을 쓴다.
-	* ex. 개선된 for문을 활용한다.
+자바로 알고리즘 문제를 풀고 풀이를 기록하는 저장소입니다.
 
-# 진도목표
-- 총 진도 : Day 1 ~ Day 25
-- 일주일에 Day 5개씩 풀기.
+## 공부 목표
 
-# 저장방식
-- 각 Day 당 디렉토리 생성 -> 문제별 디렉토리 생성.
-- 한 문제당 한 디렉토리.
-- 일부 저난이도 문제 생략.
+- 알고리즘 문제를 풀면서 문제 해결 능력과 자바에 대한 이해를 높입니다.
+- 자바의 다양한 메서드와 문법을 활용해 풀이를 연습합니다.
+
+## 디렉토리 구성
+
+- `BasicDay1` ~ `BasicDay4`: 기존에 푼 프로그래머스 코딩 기초 트레이닝 문제입니다.
+- `연습장`: 자유롭게 자바 코드와 알고리즘 풀이를 연습하는 공간입니다.
+- 각 디렉토리 안에 문제별 디렉토리를 만들고 풀이 코드를 저장합니다.
